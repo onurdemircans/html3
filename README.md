@@ -1,3 +1,3 @@
 # html3
-##html 3. ödev
-###Css öğrenildikten sonra güncellenecektir.
+## html 3. ödev
+### Css öğrenildikten sonra güncellenecektir.
